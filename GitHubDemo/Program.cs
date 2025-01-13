@@ -3,4 +3,4 @@ Console.WriteLine("Hello, World!");
 
 // Code the main logic
 
-// Part 1
+// Part 1 solution
