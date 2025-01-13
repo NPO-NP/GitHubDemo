@@ -6,3 +6,5 @@ Console.WriteLine("Hello, World!");
 // Part 1 solution
 
 // Part 2 solution
+
+// Part 3
