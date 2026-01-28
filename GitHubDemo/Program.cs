@@ -7,3 +7,4 @@ Console.WriteLine("Hello, World!");
 
 // Part 2 solution
 
+// My Part 3 solution added in VS2022
